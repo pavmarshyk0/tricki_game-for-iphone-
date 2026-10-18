@@ -1,0 +1,23 @@
+# Xcode
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.mobileprovision
+*.p12
+*.cer
+*.key
+.env
+.env.*
+!.env.example
+# Python hardware experiments
+.venv/
+.venv*/
+__pycache__/
+*.pyc

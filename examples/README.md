@@ -18,4 +18,4 @@ This script was prepared from observed hardware behavior; **this exact example h
 ## Create your own projects
 You can use the documented protocol and example as a foundation for a custom game, interactive installation, gesture controller, research prototype or educational app. Fork the repository, keep your application logic separate from the BLE transport, and validate on your own hardware.
 
-**Reuse terms:** This repository currently has **no software license**. The examples are published for reference, but publishing source does not automatically grant redistribution or modification rights. If you want unrestricted reuse by others, the owner should add an explicit open-source license (for example MIT). The Żabka/Triki names and branding belong to their respective owners.
+**Reuse terms:** The source code is released under the [MIT License](../LICENSE), allowing reuse, modification and redistribution provided the copyright and license notice are retained. The Żabka/Triki names and branding belong to their respective owners.

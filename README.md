@@ -46,7 +46,7 @@ After import, open the Xcode project, select a development team, add `NSBluetoot
 
 **[Explore the Triki developer starter kit →](examples/README.md)**
 
-The standalone example is not yet independently tested. The repository currently has no open-source license; contact the owner or wait for an explicit license before copying or redistributing its code.
+The standalone example is not yet independently tested. The source code is available under the [MIT License](LICENSE); retain the copyright and license notice when reusing it.
 
 ## Roadmap summary
 1. Import and reproduce the working Xcode build.
@@ -60,4 +60,4 @@ The standalone example is not yet independently tested. The repository currently
 Separate BLE code from game rules, verify physical-device behavior, support reconnection, and avoid undocumented writes to hardware. Do not commit signing credentials or device identifiers.
 
 ## License
-No license selected yet; all rights reserved until the owner decides.
+Released under the [MIT License](LICENSE).

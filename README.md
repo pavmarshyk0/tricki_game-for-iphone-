@@ -1,4 +1,13 @@
+<div align="center">
+
 # Triki Adventure
+
+**Choose language / Обери мову / Wybierz język / Выберите язык**
+
+[English](README.md) · [Українська](docs/README.uk.md) · [Polski](docs/README.pl.md) · [Русский](docs/README.ru.md)
+
+</div>
+
 
 **Experimental iOS adventure game controlled by a physical Żabka Triki Bluetooth figurine.**
 
@@ -29,6 +38,15 @@ Swift, SwiftUI, CoreBluetooth, Xcode. Hardware experiments use Python and Bleak 
 **The real Xcode project and Swift files have not yet been uploaded to this repository.** Import the local `tricki-game-01` Xcode project, `AdventureView.swift`, `TrikiAdventureApp.swift`, `TrikiBLE.swift`, assets and tests from the Mac first.
 
 After import, open the Xcode project, select a development team, add `NSBluetoothAlwaysUsageDescription`, select an iPhone with Developer Mode enabled, then Build and Run.
+
+
+## Build your own Triki projects
+
+**Want to build something else with Triki?** The [reusable BLE examples](examples/README.md) and [experimental Python probe](examples/triki_ble_probe.py) demonstrate how to discover the toy, connect, receive motion notifications and decode tentative gyroscope/accelerometer values. You can use these findings as a technical starting point for your own games, gesture controllers and interactive prototypes.
+
+**[Explore the Triki developer starter kit →](examples/README.md)**
+
+The standalone example is not yet independently tested. The repository currently has no open-source license; contact the owner or wait for an explicit license before copying or redistributing its code.
 
 ## Roadmap summary
 1. Import and reproduce the working Xcode build.

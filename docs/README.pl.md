@@ -21,6 +21,6 @@
 ## Twórz własne projekty z Triki
 Wykorzystując [eksperymentalny przykład kodu](../examples/README.md) i [dokumentację protokołu BLE](BLE_PROTOCOL.md), możesz opracować własną grę, sterownik gestów, prototyp edukacyjny lub instalację interaktywną.
 
-**Uwaga:** przykład nie został jeszcze osobno przetestowany, a repozytorium nie ma obecnie licencji open source. Przed ponownym wykorzystaniem lub redystrybucją kodu należy ustalić warunki licencji.
+**Uwaga:** przykład nie został jeszcze osobno przetestowany, a kod jest dostępny na [licencji MIT](../LICENSE), która zezwala na wykorzystanie i modyfikacje pod warunkiem zachowania informacji o prawach autorskich.
 
 [Architektura](ARCHITECTURE.md) · [Plan prac](ROADMAP.md) · [Rozwój](DEVELOPMENT.md)
